@@ -1,3 +1,6 @@
+network.csv
+network.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
